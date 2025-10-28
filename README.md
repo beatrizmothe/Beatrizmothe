@@ -4,11 +4,6 @@
 
 ---
 
-## 💡 Sobre mim
-Sou curiosa e dedicada, sempre buscando aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software e análise de dados.  
-
----
-
 ## 🛠 Habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,23 +17,5 @@ Sou curiosa e dedicada, sempre buscando aprender novas tecnologias e melhorar mi
 
 ---
 
-## 📂 Projetos
-| Projeto | Tecnologias | Link |
-|---------|------------|------|
-| Projeto 1 | Java, SQL | [Link](#) |
-| Projeto 2 | Python, Flask | [Link](#) |
-| Projeto 3 | HTML, CSS, JS | [Link](#) |
-
-*(Adicione os links dos seus projetos reais quando estiverem prontos)*  
-
----
-
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-
----
-
-## ⚡ Curiosidades
-- Sempre em busca de aprender algo novo  
-- Amo desafios de programação e lógica  
-- Apaixonada por tecnologia e inovação  
