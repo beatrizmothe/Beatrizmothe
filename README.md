@@ -1,7 +1,7 @@
-✨ Beatriz Thomaz Mothé 
+✨ Beatriz Thomaz Mothé  
 
-Olá, eu sou a Beatriz, tenho 24 anos e sou Estudante de Sistemas de Informação.
-Sou Apaixonada por tecnologia e tualmente estou aprofundando meus estudos em Java e Banco de Dados ❤️  
+- Olá, eu sou a Beatriz, tenho 24 anos e sou estudante de Sistemas de Informação.  
+- Sou apaixonada por tecnologia e atualmente estou aprofundando meus estudos em Java e Banco de Dados ❤️ 
 
 ---
 
